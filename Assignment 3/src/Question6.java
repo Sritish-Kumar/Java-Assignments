@@ -1,3 +1,5 @@
+// WAP to calculate the electric bill of a house based on the units consumed. For each segment of units consumed the price increases.
+
 import java.util.Scanner;
 
 public class Question6 {

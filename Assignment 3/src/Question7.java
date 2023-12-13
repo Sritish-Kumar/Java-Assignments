@@ -1,3 +1,6 @@
+
+// WAP to calulate the discount money for the previosuly calculated bill if paid by online mode. 
+// Show appropirate messages to the user.
 import java.util.Scanner;
 
 public class Question7 {
